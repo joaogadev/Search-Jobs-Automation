@@ -23,7 +23,12 @@
         "PostgreSQL",
         "SQL",
         "Git",
-        "REST API"
+        "REST API",
+        "Docker",
+        "Spring security",
+        "Spring Data JPA",
+        "JWT", 
+        "Typescript"
     ],
     "localidades": [
         "remoto", "aracaju", "sergipe", "Sergipe", "aracaju-se", "Aracaju-se", "SE", "Aracaju", "aju", "-aracaju", "/se", "(se)", "-se"
