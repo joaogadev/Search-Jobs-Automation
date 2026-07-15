@@ -1,0 +1,25 @@
+{
+    "palavaras_chave": [
+        "java", 
+        "spring boot", 
+        "python", 
+        "backend",
+        "desenvolvedor",
+        "programador",
+        "engenheiro de software",
+        "tecnologia",
+        "desenvolvimento de software",
+        "API",
+        "sql",
+        "dados",
+        "junior", "júnior",
+        "estagio",
+        "IA", "Inteligencia artificial", "inteligência artificial", "data analyst", "analise de dados"
+    ],
+    "localidades": [
+        "remoto", "aracaju", "sergipe", "Sergipe", "aracaju-se", "Aracaju-se", "SE", "Aracaju"
+    ], 
+    "termos_ excluir": [
+        "senior", "pleno", "sênior", "especialista", "tech-lead"
+    ]
+}
