@@ -9,10 +9,13 @@
         "estagio em tecnologia",
         "estagio em ciencia da computação",
         "estagio em backend",
-        "estagio java"
+        "estagio java",
+        "engenheiro de software",
+        "estagio em engenheiro de software",
+        "estgaio em software"
 
     ],
-    "palavaras_chave": [
+    "palavras_chave": [
         "java", 
         "spring boot", 
         "python", 
@@ -44,13 +47,13 @@
         "Typescript"
     ],
     "localidades": [
-        "remoto", "aracaju", "sergipe", "Sergipe", "aracaju-se", "Aracaju-se", "SE", "Aracaju", "aju", "-aracaju", "/se", "(se)", "-se"
+        "remoto", "aracaju", "sergipe", "aracaju-se", "SE", "Aracaju", "aju", "-aracaju", "/se", "(se)", "-se"
     ], 
     "modelo_trabalho": [
         "remoto", "home office", "híbrido", "presencial", "meio período"
     ],
     "termos_ excluir": [
-        "senior", "pleno", "sênior", "especialista", "tech-lead"
+        "senior", "pleno", "sênior", "especialista", "tech-lead", "tech lead"
     ],
     "score_minimo": 5
 }
