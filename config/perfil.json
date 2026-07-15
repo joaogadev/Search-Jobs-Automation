@@ -1,0 +1,38 @@
+{
+    "palavaras_chave": [
+        "java", 
+        "spring boot", 
+        "python", 
+        "backend",
+        "desenvolvedor",
+        "programador",
+        "engenheiro de software",
+        "tecnologia",
+        "desenvolvimento de software",
+        "API",
+        "sql",
+        "dados",
+        "junior", "júnior",
+        "estagio",
+        "IA", "Inteligencia artificial", "inteligência artificial", "data analyst", "analise de dados"
+    ],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "PostgreSQL",
+        "SQL",
+        "Git",
+        "REST API"
+    ],
+    "localidades": [
+        "remoto", "aracaju", "sergipe", "Sergipe", "aracaju-se", "Aracaju-se", "SE", "Aracaju", "aju", "-aracaju", "/se", "(se)", "-se"
+    ], 
+    "modelo_trabalho": [
+        "remoto", "home office", "híbrido", "presencial", "meio período"
+    ],
+    "termos_ excluir": [
+        "senior", "pleno", "sênior", "especialista", "tech-lead"
+    ],
+    "score_minimo": 5
+}
