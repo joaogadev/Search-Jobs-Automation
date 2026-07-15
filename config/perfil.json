@@ -1,4 +1,17 @@
 {
+    "cargos": [
+        "estágio em desenvolvimento",
+        "desenvolvedor backend júnior",
+        "desenvolvedor java júnior",
+        "analista de dados júnior",
+        "desenvolvedor backend",
+        "estagio em ti",
+        "estagio em tecnologia",
+        "estagio em ciencia da computação",
+        "estagio em backend",
+        "estagio java"
+
+    ],
     "palavaras_chave": [
         "java", 
         "spring boot", 
